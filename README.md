@@ -1,13 +1,20 @@
-I built a Tic-Tac-Toe game from scratch using HTML, CSS and JavaScript.
+# Tic-Tac-Toe Game
 
-It's a two-player game that detects wins and draws automatically.
-It's a simple project, but it helped me practice DOM manipulation,
-event handling and game logic in JavaScript.
+🎮 **Play it live:** https://mdfarhanu389-oss.github.io/tic-tac-toe-game/
 
-🎮 Play it here: https://mdfarhanu389-oss.github.io/tic-tac-toe-game/
-💻 Code: https://github.com/mdfarhanu389-oss/tic-tac-toe-game
+A two-player Tic-Tac-Toe game where players take turns placing X and O
+on a 3x3 grid. The game detects wins and draws automatically.
 
-Next, I'm working on more projects and improving my web development skills.
-Feedback is welcome!
+## Features
+- Two-player gameplay
+- Win and draw detection
+- Restart button
 
-#javascript #webdevelopment #html #css #buildinpublic
+## Built With
+- HTML
+- CSS
+- JavaScript
+
+## How to Run
+1. Download or clone this repository
+2. Open `index.html` in your browser
